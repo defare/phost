@@ -11,3 +11,9 @@ your host group should be like:
 115.115.115.115 www.zzz.com
 #====
 ```
+
+# usage
+```
+./phost.php dev
+```
+
